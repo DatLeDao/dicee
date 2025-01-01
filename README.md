@@ -1,20 +1,11 @@
-<<<<<<< HEAD
-# Dicee
-=======
 # dicee
 
-A new Flutter project.
+A simple Flutter project.
 
-## Getting Started
+This project show 2 dicea which you can interact with.
 
-This project is a starting point for a Flutter application.
+# How to run:
+1. Clone this to your computer.
+2. Open the project in your IDE (e.g. Android Studio, Visual Studio Code)
+3. Run the main.dart file on your emulator or physical device.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 8572b4c1580f4508696881a9f9232e6c1f528730
