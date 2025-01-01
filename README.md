@@ -2,7 +2,7 @@
 
 A simple Flutter project.
 
-This project show 2 dicea which you can interact with.
+This project show 2 dices which you can interact with.
 
 # How to run:
 1. Clone this to your computer.
